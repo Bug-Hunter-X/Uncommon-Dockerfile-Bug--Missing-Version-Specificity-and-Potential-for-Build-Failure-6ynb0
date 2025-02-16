@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked Dockerfile error: lack of explicit versioning.  The `Dockerfile_bug` demonstrates a build that might succeed but is vulnerable to unexpected changes in underlying images.  `Dockerfile_solution` shows the corrected version.
